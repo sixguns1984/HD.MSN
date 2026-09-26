@@ -63,9 +63,6 @@ HD_T_DIR = os.path.join(BASE_DIR, "HD_HC_group_statistics")
 
 MSN_COVARIATES = ["age", "sex", "education_years", "eTIV"]
 
-# Clinical-variable names are loaded at runtime from a private external schema.
-
-
 
 # ============================================================================
 # Utility functions
